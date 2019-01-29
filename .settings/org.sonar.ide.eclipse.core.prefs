@@ -1,5 +1,5 @@
 eclipse.preferences.version=1
 extraProperties=
-projectKey=QAProject\:QAProject
+projectKey=com.spring.application\:Garage
 serverUrl=http\://localhost\:9000
 version=2
